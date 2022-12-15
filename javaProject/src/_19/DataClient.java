@@ -12,7 +12,7 @@ public class DataClient {
 		String res = input.readLine();
 		System.out.println(res);
 		s.close();
-		System.exit(0);
+		System.exit(0);//test 수정
 	}
 }
  
